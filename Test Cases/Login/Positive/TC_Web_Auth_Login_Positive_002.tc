@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Web_Auth_Login_Positive_002</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>06f280e3-f7f9-4e61-9119-903ab3d6de04</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Web_AddFishCart_004</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b84d400c-7b6f-4a03-9d1a-c7ae14112104</testCaseGuid>
+</TestCaseEntity>

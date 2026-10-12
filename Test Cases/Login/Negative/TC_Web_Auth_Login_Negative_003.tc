@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Web_Auth_Login_Negative_003</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>08b8e9dc-1e3f-4199-a398-72a15c243d4c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value></value>
+      <variableId>93f00488-d3ea-4b52-942e-d575ac8dd0e8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value></value>
+      <variableId>989f383d-c040-4c39-9c11-ab8771242aae</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'wrong_user'</defaultValue>
+      <description></description>
+      <id>93f00488-d3ea-4b52-942e-d575ac8dd0e8</id>
+      <masked>false</masked>
+      <name>variable1</name>
+   </variable>
+   <variable>
+      <defaultValue>'wrong_pass'</defaultValue>
+      <description></description>
+      <id>989f383d-c040-4c39-9c11-ab8771242aae</id>
+      <masked>false</masked>
+      <name>variable2</name>
+   </variable>
+</TestCaseEntity>

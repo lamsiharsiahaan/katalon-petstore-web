@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Web_UpdateQuantityCartInvalid_005</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>37f57cd7-5025-4de1-9a21-48e55b871765</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>04bc8ad8-345c-4a33-a577-1f63f89cf24f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'-8'</defaultValue>
+      <description></description>
+      <id>04bc8ad8-345c-4a33-a577-1f63f89cf24f</id>
+      <masked>false</masked>
+      <name>quantityInvalid</name>
+   </variable>
+</TestCaseEntity>
