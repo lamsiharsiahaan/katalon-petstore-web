@@ -27,4 +27,6 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: katalon-web-reports
-          path: Reports/
+          path: |
+            Reports/
+            **/Reports/
